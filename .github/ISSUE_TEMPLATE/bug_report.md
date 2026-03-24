@@ -12,9 +12,9 @@ assignees: ''
 
 **Preconditions**
 
-** Steps To Reproduce**
+**Steps To Reproduce**
 
 
-** Actual behavior**
+**Actual behavior**
 
 **Expected behavior**
